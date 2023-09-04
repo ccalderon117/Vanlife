@@ -13,12 +13,12 @@ import {
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDUWH4BiF8NtCNSYn3SoN7lqCeJGsZ9CuA",
-  authDomain: "vanlife-fa45f.firebaseapp.com",
-  projectId: "vanlife-fa45f",
-  storageBucket: "vanlife-fa45f.appspot.com",
-  messagingSenderId: "325533746237",
-  appId: "1:325533746237:web:0c077d73a45756044dd654"
+    apiKey: "AIzaSyD_k3v3HK3tKEqhlqFHPkwogW7PqEqhGhk",
+    authDomain: "vanlife-a1af5.firebaseapp.com",
+    projectId: "vanlife-a1af5",
+    storageBucket: "vanlife-a1af5.appspot.com",
+    messagingSenderId: "803007000356",
+    appId: "1:803007000356:web:446cd3a1ca406839258db1"
 };
 
 
