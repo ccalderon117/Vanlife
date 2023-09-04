@@ -10,7 +10,6 @@ import {
     documentId
 } from "firebase/firestore/lite"
 
-import { initializeApp } from "firebase/app";
 
 
 const firebaseConfig = {
